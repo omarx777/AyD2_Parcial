@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Sitio A</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">ANALISIS Y DISEÑO 2</a></h1>			
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li><a href="Principal.html">Principal</a></li>
+			<li><a href="Nosotros.html">Nosotros</a></li>
+			<li><a href="Productos.html">Productos</a></li>
+			<li><a href="Servicio.html">Servicio</a></li>
+			<li class="current_page_item"><a href="#">Contacto</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="content">
+					<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+						<div class="row">
+							<label for="name">Tu nombre:</label><br />
+							<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+						</div>
+						<div class="row">
+							<label for="email">Tu email:</label><br />
+							<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+						</div>
+						<div class="row">
+							<label for="message">Tu mensaje:</label><br />
+							<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+						</div>
+						<input id="submit_button" type="submit" value="Enviar email" />
+					</form>		
+					<div style="clear: both;">&nbsp;</div>
+				</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<h2>Contactanos</h2>
+						</li>
+						<li>
+							<ul>
+								<li><a href="#">Contacto</a></li>
+								<li><a href="#">Sucursales</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<!-- end #sidebar -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- end #page -->
+</div>
+
+<!-- end #footer -->
+</body>
+</html>

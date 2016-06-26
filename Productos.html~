@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Sitio A</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">ANALISIS Y DISEÑO 2</a></h1>			
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li><a href="Principal.html">Principal</a></li>
+			<li><a href="Nosotros.html">Nosotros</a></li>
+			<li class="current_page_item"><a href="#">Productos</a></li>
+			<li><a href="Servicio.html">Servicio</a></li>
+			<li><a href="Contacto.html">Contacto</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="content">
+					<div class="post">
+						<h2 class="title"><a href="#">CATEGORIA --- RPG --- </a></h2>
+						<div class="entry">							
+							<p>Un videojuego de rol, en ocasiones también designado mediante las siglas RPG (del inglés role-playing game, literalmente «juego de rol») es un género de videojuegos que usa elementos de los juegos de rol tradicionales (pero estos últimos no son juegos electrónicos, se juega a ellos con dados, lápices y hojas de papel). Los jugadores de esta clase de videojuegos usan de hecho muy habitualmente, para sus videojuegos de rol, el término tradicional de «juego de rol», a pesar de la confusión que ello puede ocasionar.</p>
+						</div>
+					</div>
+					<div class="post">
+						<h2 class="title"><a href="#">GRAND THEFT AUTO V</a></h2>
+						<div class="entry">
+							<p><img src="images/g.jpg" width="143" height="143" alt="" class="alignleft border" /> Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de acción-aventura de mundo abierto desarrollado por la compañía británica Rockstar North y distribuido por Rockstar Games. Fue lanzado el 17 de septiembre de 2013 para las consolas PlayStation 3 y Xbox 360.5 Posteriormente, fue lanzado para las consolas de nueva generación PlayStation 4 y Xbox One el 18 de noviembre de 2014 y finalmente para Microsoft Windows el 14 de abril de 2015. Se trató del primer gran título en la serie Grand Theft Auto desde que se estrenara Grand Theft Auto IV en 2008, el cual estrenó la «era HD» de la mencionada serie de videojuegos.</p>
+						</div>
+					</div>
+					<div class="post">
+						<h2 class="title"><a href="#">THE LAST OF US</a></h2>
+						<div class="entry">
+							<p><img src="images/t.jpg" width="143" height="143" alt="" class="alignleft border" />The Last of Us es un videojuego de acción-aventura y survival horror desarrollado por Naughty Dog exclusivamente para PlayStation 3 y PlayStation 4. El videojuego fue anunciado por primera vez el 10 de diciembre de 2011 durante los Spike Video Game Awards. Aunque inicialmente su salida al mercado estaba prevista para el 7 de mayo de 2013, finalmente se retrasó hasta el 14 de junio. El juego se coronó con más de 240 premios internacionales a «Mejor juego del año» por encima de gigantes de la industria como Grand Theft Auto V y BioShock Infinite. Con el paso del tiempo la crítica profesional lo ha señalado como uno de los mejores juegos de la historia.</p>
+						</div>
+					</div>
+					<div style="clear: both;">&nbsp;</div>
+				</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<h2>Categories</h2>
+							<ul>
+								<li><a href="#">Accion</a></li>
+								<li><a href="#">RPG</a></li>
+								<li><a href="#">Estrategia</a></li>
+								<li><a href="#">Deportes</a></li>
+								<li><a href="#">Carreras</a></li>
+								<li><a href="#">Accion</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<!-- end #sidebar -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- end #page -->
+</div>
+	
+<!-- end #footer -->
+</body>
+</html>
